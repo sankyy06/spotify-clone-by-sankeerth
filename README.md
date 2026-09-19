@@ -19,4 +19,4 @@ HTML, CSS and JavaScript.
 - Font Awesome
 
 ## Live Demo
-[Live Demo]([https://spotify-clone-by-sankeerth.netlify.app](https://spotify-clone-by-sankeerth.vercel.app/))
+[Live Demo](https://spotify-clone-by-sankeerth.vercel.app/)
